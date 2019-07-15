@@ -7,6 +7,7 @@ and the association of the pictures with the pin.
 1- Travel Location Controller : allow the user to drag a pin in map
 2- image collection Controller : allow the user to view the images
 ## How to build
+Udacity Courses + support Sesstions
 ## Requirements 
 XCode10
 swift4.2
